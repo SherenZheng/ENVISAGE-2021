@@ -1,0 +1,5 @@
+# Ignore .lst, .log, and .~gm files
+*.lst
+*.log
+*.~gm
+*.lxi
